@@ -36,6 +36,7 @@
             <outline type="rss" text="Experteer Engineering Blog" title="Experteer Engineering Blog" xmlUrl="https://blog.experteer.engineering/feed.xml" htmlUrl="https://blog.experteer.engineering/"/>
             <outline type="rss" text="1Password Blog" title="1Password Blog" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
             <outline type="rss" text="Confluent" title="Confluent" xmlUrl="https://www.confluent.io/feed/" htmlUrl="https://www.confluent.io"/>
+            <outline type="rss" text="Netflix TechBlog" title="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com?source=rss----2615bd06b42e---4"/>
             <outline type="rss" text="Netflix TechBlog - Medium" title="Netflix TechBlog - Medium" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="https://netflixtechblog.com?source=rss----2615bd06b42e---4"/>
             <outline type="rss" text="Hashicorp Blog" title="Hashicorp Blog" xmlUrl="http://www.hashicorp.com/feed.xml" htmlUrl="https://www.hashicorp.com/blog"/>
             <outline type="rss" text="SIGARCH" title="SIGARCH" xmlUrl="https://www.sigarch.org/feed/" htmlUrl="https://www.sigarch.org"/>
